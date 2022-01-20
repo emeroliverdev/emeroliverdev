@@ -1,4 +1,4 @@
-### Olá! Sou Emerson Oliveira, estudante de Desenvolvimento Web na @betrybe 😉 🇧🇷
+### Olá! Sou Emerson Oliveira, estudante de Desenvolvimento de Software Full Stack na @betrybe 😉 🇧🇷
 #### Seja bem-vindo ao meu Github! 🖥️
  <a href="https://www.linkedin.com/in/emersonoliveiradev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:emersonoliveira.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
