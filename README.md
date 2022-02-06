@@ -4,7 +4,7 @@
 <a href = "mailto:emersonoliveira.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 ##
 
-<div align="center">
+<div>
   <a href="https://github.com/emeroliverdev">
   <img width="420" src="https://github-readme-stats.vercel.app/api?username=emeroliverdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emeroliverdev&card_width=250&layout=default&theme=tokyonight"/>
